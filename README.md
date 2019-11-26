@@ -1,5 +1,5 @@
 # Regression-Line
-Regression Line implementation from scratch using Python
+Univariable Regression Line implementation from scratch using Python
 
 I did this just for the sake of practicing.
 
